@@ -1,0 +1,18 @@
+body{
+    background-color: rgba(0,0,0,0.8);
+    font-size: 14px;
+    margin: 10%;
+}
+table{
+    border-spacing: 10px 0px;
+}
+td, th{
+    border-bottom: 2px solid gray;
+    text-align: center;
+    background: rgba(186,247,245,0.5);
+    padding: 20px;
+}
+td:hover{
+    background: #375b5c;
+    color: white;
+}
